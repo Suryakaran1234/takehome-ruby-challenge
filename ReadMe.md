@@ -48,7 +48,7 @@ Clone the repository:
 
 bash
 ```git clone <repository-url>
-cd <repository-folder>```
+cd <repository-folder>
 
 Ensure you have Ruby installed (version 2.7 or above is recommended).
 
@@ -56,6 +56,6 @@ Ensure you have Ruby installed (version 2.7 or above is recommended).
 Run the following command to execute the script:
 
 bash
-```ruby challenge.rb```
+```ruby challenge.rb
 
 The script will generate an output.txt file in the root directory with the top-up results.
