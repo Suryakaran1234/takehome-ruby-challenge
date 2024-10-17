@@ -43,7 +43,8 @@ Code challenge
 
 # Important Notes
 
-Setup
+### Setup
+
 Clone the repository:
 
 bash
@@ -54,6 +55,8 @@ cd <repository-folder>
 
 Ensure you have Ruby installed (version 2.7 or above is recommended).
 
+
+### How to Run
 
 Run the following command to execute the script:
 
